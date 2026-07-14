@@ -13,6 +13,12 @@
       "source": "./plugins/brain-toolkit",
       "description": "AI-readiness cartography + second-brain wiki toolkit (ingest / query / lint).",
       "version": "1.0.0"
+    },
+    {
+      "name": "tdd-guard",
+      "source": "./plugins/tdd-guard",
+      "description": "TDD 강제 가드 — 대응 테스트 없는 TS/JS 소스 작성을 PreToolUse 훅으로 차단.",
+      "version": "1.0.0"
     }
   ]
 }
