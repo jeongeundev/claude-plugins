@@ -27,3 +27,4 @@ Claude Code 플러그인 마켓플레이스. 팀에서 `/plugin`으로 설치해
 | 플러그인 | 내용 |
 |---|---|
 | [brain-toolkit](plugins/brain-toolkit) | AI-readiness cartography(레포 agent-적합도 감사 + HTML 대시보드) + 세컨드 브레인 wiki 툴킷(ingest·query·lint) |
+| [tdd-guard](plugins/tdd-guard) | TDD 강제 가드 — 대응 테스트 없는 TS/JS 소스 작성을 PreToolUse 훅으로 차단(설치한 세션에서만 활성) |
