@@ -1,0 +1,18 @@
+{
+  "name": "jeongeundev-plugins",
+  "owner": {
+    "name": "jeongeundev"
+  },
+  "metadata": {
+    "description": "jeongeundev의 Claude Code 팀 공용 플러그인 마켓플레이스.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "brain-toolkit",
+      "source": "./plugins/brain-toolkit",
+      "description": "AI-readiness cartography + second-brain wiki toolkit (ingest / query / lint).",
+      "version": "1.0.0"
+    }
+  ]
+}

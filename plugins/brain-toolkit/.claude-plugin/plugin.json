@@ -1,0 +1,11 @@
+{
+  "name": "brain-toolkit",
+  "description": "AI-readiness cartography (repo agent-readiness audit + HTML dashboard) plus a Karpathy-style second-brain wiki toolkit (ingest, query, lint).",
+  "version": "1.0.0",
+  "author": {
+    "name": "jeongeundev"
+  },
+  "homepage": "https://github.com/jeongeundev/claude-plugins",
+  "repository": "https://github.com/jeongeundev/claude-plugins",
+  "license": "MIT"
+}
